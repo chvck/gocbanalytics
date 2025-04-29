@@ -3,7 +3,7 @@ package cbanalytics_test
 import (
 	"testing"
 
-	cbanalytics "github.com/couchbase/gocbanalytics"
+	cbanalytics "github.com/couchbaselabs/gocbanalytics"
 	"github.com/stretchr/testify/assert"
 )
 

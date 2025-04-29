@@ -15,7 +15,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/couchbase/gocbanalytics/internal/leakcheck"
+	"github.com/couchbaselabs/gocbanalytics/internal/leakcheck"
 )
 
 // Query executes a query.

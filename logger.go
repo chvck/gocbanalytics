@@ -1,6 +1,6 @@
 package cbanalytics
 
-import "github.com/couchbase/gocbanalytics/internal/logging"
+import "github.com/couchbaselabs/gocbanalytics/internal/logging"
 
 // LogLevel specifies the severity of a log message.
 type LogLevel int

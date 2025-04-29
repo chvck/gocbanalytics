@@ -1,6 +1,6 @@
-module github.com/couchbase/gocbanalytics
+module github.com/couchbaselabs/gocbanalytics
 
-go 1.21.5
+go 1.23.0
 
 require (
 	github.com/google/uuid v1.6.0

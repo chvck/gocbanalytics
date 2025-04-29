@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	cbanalytics "github.com/couchbase/gocbanalytics"
-	"github.com/couchbase/gocbanalytics/internal/leakcheck"
+	cbanalytics "github.com/couchbaselabs/gocbanalytics"
+	"github.com/couchbaselabs/gocbanalytics/internal/leakcheck"
 )
 
 var TestOpts TestOptions

@@ -7,7 +7,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/couchbase/gocbanalytics/internal/logging"
+	"github.com/couchbaselabs/gocbanalytics/internal/logging"
 )
 
 // QueryResult allows access to the results of a N1QL query.

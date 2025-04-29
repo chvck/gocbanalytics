@@ -12,12 +12,12 @@ You can also find documentation for the Go Columnar SDK on the [official Couchba
 
 To install the latest stable version, run:
 ```bash
-go get github.com/couchbase/gocbanalytics@latest
+go get github.com/couchbaselabs/gocbanalytics@latest
 ```
 
 To install the latest developer version, run:
 ```bash
-go get github.com/couchbase/gocbanalytics@main
+go get github.com/couchbaselabs/gocbanalytics@main
 ```
 
 ## Getting Started
@@ -30,7 +30,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/couchbase/gocbanalytics"
+	"github.com/couchbaselabs/gocbanalytics"
 )
 
 func main() {

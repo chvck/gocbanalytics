@@ -10,7 +10,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/couchbase/gocbanalytics/internal/httpqueryclient"
+	"github.com/couchbaselabs/gocbanalytics/internal/httpqueryclient"
 )
 
 type queryClient interface {

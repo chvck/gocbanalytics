@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	cbanalytics "github.com/couchbase/gocbanalytics"
+	cbanalytics "github.com/couchbaselabs/gocbanalytics"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

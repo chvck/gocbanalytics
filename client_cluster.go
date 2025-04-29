@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/couchbase/gocbanalytics/internal/httpqueryclient"
+	"github.com/couchbaselabs/gocbanalytics/internal/httpqueryclient"
 )
 
 type clusterClient interface {
